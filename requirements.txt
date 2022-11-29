@@ -1,0 +1,4 @@
+selenium
+twocaptcha
+2captcha-python
+chromedriver-py
